@@ -1,5 +1,7 @@
 
 //components
+import React from 'react';
+
 import Home from './components/Home';
 import DataProvider from './context/DataProvider';
 

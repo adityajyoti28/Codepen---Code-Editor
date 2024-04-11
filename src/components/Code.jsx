@@ -1,4 +1,5 @@
 import { useContext } from 'react';
+import React from 'react';
 
 //components
 import Editor from './Editor';
